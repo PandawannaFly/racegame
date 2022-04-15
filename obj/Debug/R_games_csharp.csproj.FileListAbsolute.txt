@@ -1,0 +1,11 @@
+D:\VS save\Racing game\R_games_csharp\bin\Debug\R_games_csharp.exe.config
+D:\VS save\Racing game\R_games_csharp\bin\Debug\R_games_csharp.exe
+D:\VS save\Racing game\R_games_csharp\bin\Debug\R_games_csharp.pdb
+D:\VS save\Racing game\R_games_csharp\obj\Debug\R_games_csharp.csproj.AssemblyReference.cache
+D:\VS save\Racing game\R_games_csharp\obj\Debug\R_games_csharp.csproj.SuggestedBindingRedirects.cache
+D:\VS save\Racing game\R_games_csharp\obj\Debug\R_games_csharp.Form1.resources
+D:\VS save\Racing game\R_games_csharp\obj\Debug\R_games_csharp.Properties.Resources.resources
+D:\VS save\Racing game\R_games_csharp\obj\Debug\R_games_csharp.csproj.GenerateResource.cache
+D:\VS save\Racing game\R_games_csharp\obj\Debug\R_games_csharp.csproj.CoreCompileInputs.cache
+D:\VS save\Racing game\R_games_csharp\obj\Debug\R_games_csharp.exe
+D:\VS save\Racing game\R_games_csharp\obj\Debug\R_games_csharp.pdb
